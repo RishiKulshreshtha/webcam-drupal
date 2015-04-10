@@ -1,0 +1,4 @@
+name = Webcam
+description = Captures and saves the image from the Webcam which can be used as profile picture.
+core = 7.x
+configure = admin/config/media/webcam
